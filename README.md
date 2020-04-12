@@ -1,1 +1,1 @@
-# imageai-tutorials
+# ImageAI
